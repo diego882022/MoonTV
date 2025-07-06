@@ -73,9 +73,9 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-    "ss3": {
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "name": "松视"
+    "fhcj": {
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "name": "番号"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
