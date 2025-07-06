@@ -77,6 +77,14 @@
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "name": "番号"
     },
+    "xx": {
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "name": "香香"
+    },
+    "155": {
+      "api": "https://155api.com/api.php/provide/vod/",
+      "name": "155"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
